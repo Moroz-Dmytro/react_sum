@@ -1,0 +1,2 @@
+body{height:100vh;justify-content:center;align-items:center;font-family:Arial,Helvetica,sans-serif;font-size:22px;color:#9acd32}.sum,body{display:flex}.sum__number{display:inline-block;padding:0 5px;color:#ff0;transition:color 1s,-webkit-transform .3s;transition:transform .3s,color 1s;transition:transform .3s,color 1s,-webkit-transform .3s}.sum__number:hover{cursor:pointer;color:red;-webkit-transform:scale(1.2);transform:scale(1.2)}
+/*# sourceMappingURL=main.a15d8ca8.chunk.css.map */
